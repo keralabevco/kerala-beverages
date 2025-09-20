@@ -2,7 +2,7 @@
 
 const beverages = [
   {
-    "name": ".44 Caliber Blended Reserve",
+    "name": "44 Caliber Blended Reserve",
     "category": "Whisky",
     "sizes": [
       {
@@ -28,7 +28,7 @@ const beverages = [
     ]
   },
   {
-    "name": ".44 Caliber Premium",
+    "name": "44 Caliber Premium",
     "category": "Brandy",
     "sizes": [
       {
@@ -21906,3 +21906,4 @@ const beverages = [
   // Rum: '#d69d57',
   // Whisky: '#8b5e3c'
 // };
+
